@@ -1,1 +1,1 @@
-# Computer_Fundamentals
+# Operating Systems, Database Management, Computer Networks etc
