@@ -1,1 +1,1 @@
-# Operating Systems, Database Management, Computer Networks etc
+Operating Systems, Database Management, Computer Networks etc
